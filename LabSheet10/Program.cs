@@ -10,7 +10,7 @@ namespace LabSheet10
   {
     static void Main(string[] args)
     {
-      
+      Console.WriteLine("My first commit to git");
     }
   }
 }
