@@ -1,0 +1,15 @@
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/bin/Debug/net8.0/Ex3
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/bin/Debug/net8.0/Ex3.deps.json
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/bin/Debug/net8.0/Ex3.runtimeconfig.json
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/bin/Debug/net8.0/Ex3.dll
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/bin/Debug/net8.0/Ex3.pdb
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/Ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/Ex3.AssemblyInfoInputs.cache
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/Ex3.AssemblyInfo.cs
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/Ex3.csproj.CoreCompileInputs.cache
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/Ex3.sourcelink.json
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/Ex3.dll
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/refint/Ex3.dll
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/Ex3.pdb
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/Ex3.genruntimeconfig.cache
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex3/obj/Debug/net8.0/ref/Ex3.dll
