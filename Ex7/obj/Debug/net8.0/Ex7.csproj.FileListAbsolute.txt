@@ -1,0 +1,15 @@
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/bin/Debug/net8.0/Ex7
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/bin/Debug/net8.0/Ex7.deps.json
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/bin/Debug/net8.0/Ex7.runtimeconfig.json
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/bin/Debug/net8.0/Ex7.dll
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/bin/Debug/net8.0/Ex7.pdb
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/Ex7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/Ex7.AssemblyInfoInputs.cache
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/Ex7.AssemblyInfo.cs
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/Ex7.csproj.CoreCompileInputs.cache
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/Ex7.sourcelink.json
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/Ex7.dll
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/refint/Ex7.dll
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/Ex7.pdb
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/Ex7.genruntimeconfig.cache
+/Users/paulacarolinasilva/Desktop/LabSheet10/Ex7/obj/Debug/net8.0/ref/Ex7.dll
